@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Slide74 {
      public static void main(String[] args) {
-          Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         int n;
         do{
             System.out.print("Nhap vao so luong phan tu > 0:");
